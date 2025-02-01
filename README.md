@@ -39,9 +39,9 @@ DPI Broker'ın (GoodbyeDPI) Türkiye fork'unu kullanmak için iki yöntem bulunm
 
 ## Hizmet Kurarak Kullanma (Windows başlatılırken otomatik olarak çalıştırılır)
 
-GoodbyeDPI Türkiye versiyonunu hizmet kurarak kullanmak için:
+DPI Broker hizmet kurarak kullanmak için:
 
-- [dpi-broker.zip](https://github.com/sameda1290/DPI-Broker/releases/download/release/dpi-broker-0.2.3rc3-turkey.zip) dosyasını bilgisayarınıza indirin.
+- [dpi-broker.zip](https://github.com/Sameda1290/DPI-Broker/releases/download/release/DPI-Broker.zip) dosyasını bilgisayarınıza indirin.
 - ZIP dosyasını herhangi bir dizine çıkarın.
 - Çıkartılan dosyalardan ``service_install_dnsredir_turkey.cmd`` dosyasına sağ tıklayarak ``Yönetici Olarak Çalıştır`` seçeneğini seçin.
 - Açılan konsol penceresinde herhangi bir tuşuna basın.
@@ -52,9 +52,9 @@ GoodbyeDPI Türkiye versiyonunu hizmet kurarak kullanmak için:
 
 ## Batch Dosyası İle Kullanma (Tek seferlik, pencere kapatıldığında sona erecek şekilde)
 
-GoodbyeDPI Türkiye fork'unu batch dosyasını çalıştırarak kullanmak için **(Bir komut penceresi açılır ve uygulama çalışmaya başlar, bu pencere kapatıldığında çalışmaya son verilir)** :
+DPI Broker'ı batch dosyasını çalıştırarak kullanmak için **(Bir komut penceresi açılır ve uygulama çalışmaya başlar, bu pencere kapatıldığında çalışmaya son verilir)** :
 
-- [dpi-broker.zip](https://github.com/sameda1290/DPI-Broker/releases/download/release/dpi-broker-0.2.3rc3-turkey.zip) dosyasını bilgisayarınıza indirin.
+- [dpi-broker.zip](https://github.com/Sameda1290/DPI-Broker/releases/download/release/DPI-Broker.zip) dosyasını bilgisayarınıza indirin.
 - ZIP dosyasını herhangi bir dizine çıkarın.
 - Çıkartılan dosyalardan ``turkey_dnsredir.cmd`` dosyasına sağ tıklayarak ``Yönetici Olarak Çalıştır`` seçeneğini seçin.
 
